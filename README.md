@@ -232,7 +232,3 @@ fun AlbumDetailScreen(albumId: Int?, viewModel: AlbumDetailViewModel = hiltViewM
     }
 }
 ```
-
-## Demo
-
-https://drive.google.com/file/d/1H1WJJZaB1alht9HeZR600vF8ABovFrOl/view?usp=sharing
